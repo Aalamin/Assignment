@@ -1,0 +1,24 @@
+.form {
+  width: 60%;
+  padding: 10px 20px;
+  margin: auto;
+}
+.form form input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.hide {
+  text-align: center;
+}
+
+
+.itemBox {
+  width: 60%;
+  margin: auto;
+}
+
+
+.allItem {
+  width: 100%;
+}
